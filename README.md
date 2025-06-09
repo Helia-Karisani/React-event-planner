@@ -37,8 +37,3 @@ All JSX source files are located under:
 - Add backend integration for contact form
 - Improve responsiveness and styling
 - Deploy the app live
-
----
-
-Let me know if you'd like a custom badge, logo, or GitHub Pages deployment section added!
-```
