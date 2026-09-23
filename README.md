@@ -1,8 +1,6 @@
-Here’s a clean and professional `README.md` text you can paste into your GitHub repo:
 
 ---
 
-```markdown
 #React Event Planner 
 
 This project is a React-based **Event Planner** web application created as part of my front-end learning journey.
