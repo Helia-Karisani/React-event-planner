@@ -1,13 +1,8 @@
-Here’s a clean and professional `README.md` text you can paste into your GitHub repo:
-
----
-
-```markdown
-#React Event Planner 
+# React Event Planner
 
 This project is a React-based **Event Planner** web application created as part of my front-end learning journey.
 
-##What I've Done So Far
+## What I've Done So Far
 
 - Initialized a React project and organized it under `src/`.
 - Updated the initial component structure to support a multi-section event planning UI.
@@ -19,17 +14,16 @@ This project is a React-based **Event Planner** web application created as part 
   - Contact form with input fields
 - Created and added a footer component in [`src/Components/Footer.jsx`](src/Components/Footer.jsx).
 
-##Project Structure
+## Project Structure
 
 All JSX source files are located under:
-```
 
+```
 src/
 └── Components/
-├── EventPlanner.jsx
-├── EventPlanner.css
-└── Footer.jsx
-
+    ├── EventPlanner.jsx
+    ├── EventPlanner.css
+    └── Footer.jsx
 ```
 
 ## Upcoming
@@ -37,5 +31,3 @@ src/
 - Add backend integration for contact form
 - Improve responsiveness and styling
 - Deploy the app live
-
-
