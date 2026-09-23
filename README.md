@@ -37,3 +37,5 @@ src/
 - Add backend integration for contact form
 - Improve responsiveness and styling
 - Deploy the app live
+
+
